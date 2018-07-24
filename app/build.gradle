@@ -51,5 +51,10 @@ dependencies {
     implementation "org.jetbrains.anko:anko-appcompat-v7-coroutines:$anko_version"
 
     // AUTH
+    //noinspection GradleCompatible
     implementation 'com.google.android.gms:play-services-auth:9.2.0'
+
+    //DATABASE FIREBASE,UI
+    implementation 'com.google.firebase:firebase-database:9.2.0'
+    implementation 'com.firebaseui:firebase-ui-database:0.4.1'
 }
