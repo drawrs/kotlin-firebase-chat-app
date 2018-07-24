@@ -6,17 +6,12 @@ import android.text.format.DateUtils;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ImageView;
-import android.widget.TextView;
-
-import com.bumptech.glide.Glide;
 import com.firebase.ui.database.FirebaseRecyclerAdapter;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.Query;
 import com.khilman.www.firebasechatkotlintest.R;
 import com.khilman.www.firebasechatkotlintest.model.ChatModel;
 
-import hani.momanii.supernova_emoji_library.Helper.EmojiconTextView;
 
 public class ChatFirebaseAdapter extends FirebaseRecyclerAdapter<ChatModel, ChatFirebaseAdapter.MyChatViewHolder> {
 
@@ -58,35 +53,21 @@ public class ChatFirebaseAdapter extends FirebaseRecyclerAdapter<ChatModel, Chat
 
     @Override
     protected void populateViewHolder(MyChatViewHolder viewHolder, ChatModel model, int position) {
-        viewHolder.setIvUser(model.getUserModel().getPhoto_profile());
-        viewHolder.setTxtMessage(model.getMessage());
-        viewHolder.setTvTimestamp(model.getTimeStamp());
 
     }
 
     public class MyChatViewHolder extends RecyclerView.ViewHolder {
-        TextView tvTimestamp;
-        EmojiconTextView txtMessage;
-        ImageView ivUser;
+
         public MyChatViewHolder(View itemView) {
             super(itemView);
-            tvTimestamp = (TextView)itemView.findViewById(R.id.timestamp);
-            txtMessage = (EmojiconTextView)itemView.findViewById(R.id.txtMessage);
-            ivUser = (ImageView)itemView.findViewById(R.id.ivUserChat);
         }
         public void setTxtMessage(String message){
-            if (txtMessage == null)return;
-            txtMessage.setText(message);
         }
 
         public void setIvUser(String urlPhotoUser){
-            if (ivUser == null)return;
-            Glide.with(ivUser.getContext()).load(urlPhotoUser).centerCrop().transform(new CircleTransform(ivUser.getContext())).override(40,40).into(ivUser);
         }
 
         public void setTvTimestamp(String timestamp){
-            if (tvTimestamp == null)return;
-            tvTimestamp.setText(converteTimestamp(timestamp));
         }
     }
     private CharSequence converteTimestamp(String mileSegundos){
