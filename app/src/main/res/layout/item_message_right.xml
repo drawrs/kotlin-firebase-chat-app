@@ -10,11 +10,13 @@
     android:paddingLeft="16dp"
     android:paddingRight="16dp">
 
-    <ImageView
+    <de.hdodenhof.circleimageview.CircleImageView
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
         android:layout_width="35dp"
         android:layout_height="35dp"
+        android:layout_margin="5dp"
+        android:src="@drawable/common_ic_googleplayservices"
         android:id="@+id/ivUserChat"
         android:layout_alignBottom="@+id/contentMessageChat" />
 

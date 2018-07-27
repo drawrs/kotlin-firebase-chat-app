@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">343817718509-ad1g6mrech8tkmio517b1ug7s4pipl9s.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://fir-chat-demo-71965.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">343817718509</string>
+    <string name="google_api_key" translatable="false">AIzaSyDkp0GZvhdqUetxMlrYFSb2ABmMT1vVtTU</string>
+    <string name="google_app_id" translatable="false">1:343817718509:android:f078186457055a6e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDkp0GZvhdqUetxMlrYFSb2ABmMT1vVtTU</string>
+    <string name="google_storage_bucket" translatable="false">fir-chat-demo-71965.appspot.com</string>
+    <string name="project_id" translatable="false">fir-chat-demo-71965</string>
+</resources>

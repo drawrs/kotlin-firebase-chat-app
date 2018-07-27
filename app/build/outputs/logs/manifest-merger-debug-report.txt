@@ -1,0 +1,362 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:design:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/0627784d3eda93a409c8e3d7582200f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.hani-momanii:SuperNova-Emoji:1.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/SuperNova-Emoji-1.1.aar/751e8f441fcdbcbab31dadc867e84ce4/AndroidManifest.xml:2:1-10:12
+MERGED from [com.firebaseui:firebase-ui-database:0.4.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-0.4.1.aar/8d5026dbf95aa80e8482d8192353545c/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d9419f3e13e2f7d3c1a9f5d325900c2d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a7d293593bda9c621bb1ddb1dcb7dc1a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/965a02dc04301d1818e0373aab8e9535/AndroidManifest.xml:17:1-22:12
+MERGED from [me.himanshusoni.chatmessageview:chat-message-view:1.0.3] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/chat-message-view-1.0.3.aar/c99a4fc6de629e80e285a2adb69c097b/AndroidManifest.xml:2:1-16:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/60a4609a999c9cb61eb2afe7b72afc78/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-auth-9.2.0.aar/090fc4123fd184ff4ee1456f8c35ab08/AndroidManifest.xml:16:1-22:12
+MERGED from [com.google.firebase:firebase-core:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-core-9.2.0.aar/c953574f30854bbdaba9a12c279d0026/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-auth-9.2.0.aar/32b5c47c22a0b322db8680701cb1e409/AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.firebase:firebase-database:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-database-9.2.0.aar/b0c36f59a6deaa7be861dc9c5373fa2d/AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:transition:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/89a5ee3fd09e02e5befadfe732a3a697/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-common:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-auth-common-9.2.0.aar/b014bcce6a0840f1d219d6da11c69f5d/AndroidManifest.xml:16:1-22:12
+MERGED from [com.google.firebase:firebase-auth-module:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-auth-module-9.2.0.aar/ff515b793d78c0874511fa13be30adca/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-base:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-9.2.0.aar/cff5ef1c4675530e5b5d067591953f36/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-connection:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-9.2.0.aar/aeac83114a1a972782c4a27cc288c344/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-base-9.2.0.aar/82096045af0b5ebed114a7cae6601e22/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-analytics:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.2.0.aar/c3f95eaff65d1d84ca5e0bb198632277/AndroidManifest.xml:16:1-42:12
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.2.0.aar/2c418acfdb814024973e23566fa03d67/AndroidManifest.xml:16:1-42:12
+MERGED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:16:1-60:12
+MERGED from [com.google.firebase:firebase-common:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-common-9.2.0.aar/ccc8c0772c89bb9eb356476f538df6ea/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.2.0.aar/4c366bb27ad97fe5468a561d52c8db3b/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.2.0.aar/ce2088af0fa04c3bcce3176daf794191/AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/05a846e92c94881c25ba433e9187eb90/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/2a930d44902808d084b153b4e3bc0989/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/5b7e450e5f013bf351221df03028496c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/bcff70dc558d27b2898d0f5a2725d83e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/5a30666475ed4fe9296edad431a82117/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/e6726b0b2e0128190861083d2b7b10f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/26900dfb2c4841be605ce2be3b005f44/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/32aac0bb174cc5b5242e536cca5c99bb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/961ee7b4162c68322244a4abe3a16d0a/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml:3:5-53
+		INJECTED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml:5:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.2.0.aar/c3f95eaff65d1d84ca5e0bb198632277/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.2.0.aar/c3f95eaff65d1d84ca5e0bb198632277/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.2.0.aar/2c418acfdb814024973e23566fa03d67/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.2.0.aar/2c418acfdb814024973e23566fa03d67/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:20:5-79
+MERGED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml:5:22-76
+application
+ADDED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml:6:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a7d293593bda9c621bb1ddb1dcb7dc1a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a7d293593bda9c621bb1ddb1dcb7dc1a/AndroidManifest.xml:9:5-20
+MERGED from [me.himanshusoni.chatmessageview:chat-message-view:1.0.3] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/chat-message-view-1.0.3.aar/c99a4fc6de629e80e285a2adb69c097b/AndroidManifest.xml:11:5-14:19
+MERGED from [me.himanshusoni.chatmessageview:chat-message-view:1.0.3] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/chat-message-view-1.0.3.aar/c99a4fc6de629e80e285a2adb69c097b/AndroidManifest.xml:11:5-14:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/60a4609a999c9cb61eb2afe7b72afc78/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/60a4609a999c9cb61eb2afe7b72afc78/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-auth-9.2.0.aar/090fc4123fd184ff4ee1456f8c35ab08/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-auth-9.2.0.aar/090fc4123fd184ff4ee1456f8c35ab08/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-core:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-core-9.2.0.aar/c953574f30854bbdaba9a12c279d0026/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-core-9.2.0.aar/c953574f30854bbdaba9a12c279d0026/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-auth-9.2.0.aar/32b5c47c22a0b322db8680701cb1e409/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-auth:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-auth-9.2.0.aar/32b5c47c22a0b322db8680701cb1e409/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.firebase:firebase-auth-common:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-auth-common-9.2.0.aar/b014bcce6a0840f1d219d6da11c69f5d/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-auth-common-9.2.0.aar/b014bcce6a0840f1d219d6da11c69f5d/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.android.gms:play-services-base:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-base-9.2.0.aar/82096045af0b5ebed114a7cae6601e22/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-base-9.2.0.aar/82096045af0b5ebed114a7cae6601e22/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-analytics:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.2.0.aar/c3f95eaff65d1d84ca5e0bb198632277/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.2.0.aar/c3f95eaff65d1d84ca5e0bb198632277/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.2.0.aar/2c418acfdb814024973e23566fa03d67/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.2.0.aar/2c418acfdb814024973e23566fa03d67/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-common-9.2.0.aar/ccc8c0772c89bb9eb356476f538df6ea/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.firebase:firebase-common:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-common-9.2.0.aar/ccc8c0772c89bb9eb356476f538df6ea/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.2.0.aar/4c366bb27ad97fe5468a561d52c8db3b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.2.0.aar/4c366bb27ad97fe5468a561d52c8db3b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.2.0.aar/ce2088af0fa04c3bcce3176daf794191/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.2.0.aar/ce2088af0fa04c3bcce3176daf794191/AndroidManifest.xml:20:5-24:19
+	android:supportsRtl
+		ADDED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.khilman.www.firebasechatkotlintest.MainActivity
+ADDED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.khilman.www.firebasechatkotlintest.view.LoginActivity
+ADDED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml:20:9-22:20
+	android:name
+		ADDED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml:20:19-53
+uses-sdk
+INJECTED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/0627784d3eda93a409c8e3d7582200f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/0627784d3eda93a409c8e3d7582200f4/AndroidManifest.xml:20:5-44
+MERGED from [com.github.hani-momanii:SuperNova-Emoji:1.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/SuperNova-Emoji-1.1.aar/751e8f441fcdbcbab31dadc867e84ce4/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.hani-momanii:SuperNova-Emoji:1.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/SuperNova-Emoji-1.1.aar/751e8f441fcdbcbab31dadc867e84ce4/AndroidManifest.xml:6:5-8:41
+MERGED from [com.firebaseui:firebase-ui-database:0.4.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-0.4.1.aar/8d5026dbf95aa80e8482d8192353545c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:0.4.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-0.4.1.aar/8d5026dbf95aa80e8482d8192353545c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d9419f3e13e2f7d3c1a9f5d325900c2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d9419f3e13e2f7d3c1a9f5d325900c2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a7d293593bda9c621bb1ddb1dcb7dc1a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a7d293593bda9c621bb1ddb1dcb7dc1a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/965a02dc04301d1818e0373aab8e9535/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/965a02dc04301d1818e0373aab8e9535/AndroidManifest.xml:20:5-44
+MERGED from [me.himanshusoni.chatmessageview:chat-message-view:1.0.3] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/chat-message-view-1.0.3.aar/c99a4fc6de629e80e285a2adb69c097b/AndroidManifest.xml:7:5-9:41
+MERGED from [me.himanshusoni.chatmessageview:chat-message-view:1.0.3] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/chat-message-view-1.0.3.aar/c99a4fc6de629e80e285a2adb69c097b/AndroidManifest.xml:7:5-9:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/60a4609a999c9cb61eb2afe7b72afc78/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/60a4609a999c9cb61eb2afe7b72afc78/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-auth-9.2.0.aar/090fc4123fd184ff4ee1456f8c35ab08/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-auth-9.2.0.aar/090fc4123fd184ff4ee1456f8c35ab08/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-core:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-core-9.2.0.aar/c953574f30854bbdaba9a12c279d0026/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-core:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-core-9.2.0.aar/c953574f30854bbdaba9a12c279d0026/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-auth-9.2.0.aar/32b5c47c22a0b322db8680701cb1e409/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-auth-9.2.0.aar/32b5c47c22a0b322db8680701cb1e409/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-database:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-database-9.2.0.aar/b0c36f59a6deaa7be861dc9c5373fa2d/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-database-9.2.0.aar/b0c36f59a6deaa7be861dc9c5373fa2d/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:transition:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/89a5ee3fd09e02e5befadfe732a3a697/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/89a5ee3fd09e02e5befadfe732a3a697/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-common:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-auth-common-9.2.0.aar/b014bcce6a0840f1d219d6da11c69f5d/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-auth-common-9.2.0.aar/b014bcce6a0840f1d219d6da11c69f5d/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-auth-module-9.2.0.aar/ff515b793d78c0874511fa13be30adca/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-auth-module-9.2.0.aar/ff515b793d78c0874511fa13be30adca/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-9.2.0.aar/cff5ef1c4675530e5b5d067591953f36/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-9.2.0.aar/cff5ef1c4675530e5b5d067591953f36/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-9.2.0.aar/aeac83114a1a972782c4a27cc288c344/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-9.2.0.aar/aeac83114a1a972782c4a27cc288c344/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-base:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-base-9.2.0.aar/82096045af0b5ebed114a7cae6601e22/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-base-9.2.0.aar/82096045af0b5ebed114a7cae6601e22/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.2.0.aar/c3f95eaff65d1d84ca5e0bb198632277/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.2.0.aar/c3f95eaff65d1d84ca5e0bb198632277/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.2.0.aar/2c418acfdb814024973e23566fa03d67/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.2.0.aar/2c418acfdb814024973e23566fa03d67/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-common-9.2.0.aar/ccc8c0772c89bb9eb356476f538df6ea/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-common-9.2.0.aar/ccc8c0772c89bb9eb356476f538df6ea/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.2.0.aar/4c366bb27ad97fe5468a561d52c8db3b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.2.0.aar/4c366bb27ad97fe5468a561d52c8db3b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.2.0.aar/ce2088af0fa04c3bcce3176daf794191/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.2.0.aar/ce2088af0fa04c3bcce3176daf794191/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/05a846e92c94881c25ba433e9187eb90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/05a846e92c94881c25ba433e9187eb90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/2a930d44902808d084b153b4e3bc0989/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/2a930d44902808d084b153b4e3bc0989/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/5b7e450e5f013bf351221df03028496c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/5b7e450e5f013bf351221df03028496c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/bcff70dc558d27b2898d0f5a2725d83e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/bcff70dc558d27b2898d0f5a2725d83e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/5a30666475ed4fe9296edad431a82117/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/5a30666475ed4fe9296edad431a82117/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/e6726b0b2e0128190861083d2b7b10f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/e6726b0b2e0128190861083d2b7b10f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/26900dfb2c4841be605ce2be3b005f44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/26900dfb2c4841be605ce2be3b005f44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/32aac0bb174cc5b5242e536cca5c99bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/32aac0bb174cc5b5242e536cca5c99bb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/961ee7b4162c68322244a4abe3a16d0a/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/961ee7b4162c68322244a4abe3a16d0a/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rizalhilman/Documents/AndroidProjects/FirebaseChatKotlinTest/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.firebaseui:firebase-ui-database:0.4.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-0.4.1.aar/8d5026dbf95aa80e8482d8192353545c/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.2.0.aar/c3f95eaff65d1d84ca5e0bb198632277/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.2.0.aar/c3f95eaff65d1d84ca5e0bb198632277/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.2.0.aar/2c418acfdb814024973e23566fa03d67/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.2.0.aar/2c418acfdb814024973e23566fa03d67/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:0.4.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-0.4.1.aar/8d5026dbf95aa80e8482d8192353545c/AndroidManifest.xml:11:22-64
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-auth-9.2.0.aar/32b5c47c22a0b322db8680701cb1e409/AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-auth-9.2.0.aar/32b5c47c22a0b322db8680701cb1e409/AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-auth-9.2.0.aar/32b5c47c22a0b322db8680701cb1e409/AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-auth-9.2.0.aar/32b5c47c22a0b322db8680701cb1e409/AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-auth-9.2.0.aar/32b5c47c22a0b322db8680701cb1e409/AndroidManifest.xml:21:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-auth-9.2.0.aar/32b5c47c22a0b322db8680701cb1e409/AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-auth-9.2.0.aar/32b5c47c22a0b322db8680701cb1e409/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-auth-9.2.0.aar/32b5c47c22a0b322db8680701cb1e409/AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-auth-9.2.0.aar/32b5c47c22a0b322db8680701cb1e409/AndroidManifest.xml:29:13-58
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-base-9.2.0.aar/82096045af0b5ebed114a7cae6601e22/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-base-9.2.0.aar/82096045af0b5ebed114a7cae6601e22/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-base-9.2.0.aar/82096045af0b5ebed114a7cae6601e22/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-base-9.2.0.aar/82096045af0b5ebed114a7cae6601e22/AndroidManifest.xml:20:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.2.0.aar/c3f95eaff65d1d84ca5e0bb198632277/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.2.0.aar/2c418acfdb814024973e23566fa03d67/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.2.0.aar/2c418acfdb814024973e23566fa03d67/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:22:5-68
+MERGED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.2.0.aar/c3f95eaff65d1d84ca5e0bb198632277/AndroidManifest.xml:24:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.2.0.aar/c3f95eaff65d1d84ca5e0bb198632277/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.2.0.aar/2c418acfdb814024973e23566fa03d67/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.2.0.aar/2c418acfdb814024973e23566fa03d67/AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.2.0.aar/c3f95eaff65d1d84ca5e0bb198632277/AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.2.0.aar/c3f95eaff65d1d84ca5e0bb198632277/AndroidManifest.xml:29:11-83
+intent-filter#action:name:com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.2.0.aar/c3f95eaff65d1d84ca5e0bb198632277/AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.2.0.aar/c3f95eaff65d1d84ca5e0bb198632277/AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.2.0.aar/c3f95eaff65d1d84ca5e0bb198632277/AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.2.0.aar/c3f95eaff65d1d84ca5e0bb198632277/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.2.0.aar/2c418acfdb814024973e23566fa03d67/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.2.0.aar/2c418acfdb814024973e23566fa03d67/AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.2.0.aar/c3f95eaff65d1d84ca5e0bb198632277/AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.2.0.aar/c3f95eaff65d1d84ca5e0bb198632277/AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.2.0.aar/c3f95eaff65d1d84ca5e0bb198632277/AndroidManifest.xml:37:11-82
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:25:17-71
+permission#com.khilman.www.firebasechatkotlintest.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:28:22-76
+uses-permission#com.khilman.www.firebasechatkotlintest.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:33:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+action:name:com.google.android.c2dm.intent.REGISTRATION+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:36:13-40:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+action:name:com.google.android.c2dm.intent.REGISTRATION+category:name:com.khilman.www.firebasechatkotlintest
+ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:39:27-58
+category#com.khilman.www.firebasechatkotlintest
+ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:52:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.2.0.aar/188356cd6de2fef9a191b8642f4ad61d/AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-common-9.2.0.aar/ccc8c0772c89bb9eb356476f538df6ea/AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-common-9.2.0.aar/ccc8c0772c89bb9eb356476f538df6ea/AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-common-9.2.0.aar/ccc8c0772c89bb9eb356476f538df6ea/AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-common-9.2.0.aar/ccc8c0772c89bb9eb356476f538df6ea/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/firebase-common-9.2.0.aar/ccc8c0772c89bb9eb356476f538df6ea/AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.2.0.aar/ce2088af0fa04c3bcce3176daf794191/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.2.0.aar/ce2088af0fa04c3bcce3176daf794191/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.2.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.2.0.aar/ce2088af0fa04c3bcce3176daf794191/AndroidManifest.xml:22:13-58

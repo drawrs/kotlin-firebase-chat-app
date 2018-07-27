@@ -11,10 +11,11 @@
     android:paddingLeft="16dp"
     android:paddingRight="16dp">
 
-    <ImageView
+    <de.hdodenhof.circleimageview.CircleImageView
         android:layout_alignBottom="@+id/contentMessageChat"
         android:layout_width="35dp"
         android:layout_height="35dp"
+        android:layout_margin="5dp"
         android:id="@+id/ivUserChat" />
 
     <me.himanshusoni.chatmessageview.ChatMessageView
@@ -28,7 +29,8 @@
         app:cmv_cornerRadius="3dp"
         app:cmv_showArrow="true"
         android:layout_alignParentTop="true"
-        android:layout_toEndOf="@+id/ivUserChat">
+        android:layout_toEndOf="@+id/ivUserChat"
+        android:layout_toRightOf="@+id/ivUserChat">
 
     <hani.momanii.supernova_emoji_library.Helper.EmojiconTextView
         android:id="@+id/txtMessage"
@@ -51,5 +53,6 @@
         android:paddingTop="6dp"
         android:textSize="10sp"
         android:layout_below="@+id/contentMessageChat"
-        android:layout_toEndOf="@+id/ivUserChat" />
+        android:layout_toEndOf="@+id/ivUserChat"
+        android:layout_toRightOf="@+id/ivUserChat" />
 </RelativeLayout>
